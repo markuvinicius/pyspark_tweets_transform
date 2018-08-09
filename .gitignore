@@ -1,0 +1,6 @@
+venv/
+spark-warehouse/
+.idea
+*.pyc
+.DS_Store
+*.DS_Store
